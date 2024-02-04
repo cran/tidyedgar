@@ -1,0 +1,14 @@
+87cdec0734ed5b29c1d26e1638fa18d7 *DESCRIPTION
+6f0f7a40a4a23a1054600567696bc1b0 *LICENSE
+39ee04a320432e2a8d6e790da8345f0b *NAMESPACE
+486cce637696ffcd6a5f590049df4df9 *R/get_qdata.R
+ef0a89f673e073c468797505867e17e8 *R/get_ydata.R
+739ca37620c9af02997b98335bf35d6f *R/prepare_data.R
+d87f0f66dfd0bb8a0adf97ebf90c7d2c *R/retrieve_data.R
+e6f14763c44ca559d0db49276ddc803b *R/safe_max.R
+c5e9ac5016be7d7673efccf655dc9f82 *README.md
+fbb3189394ac0db7f82a0dd5a4a71de9 *man/get_qdata.Rd
+6ca15595f2897431570ffb1bc4daa292 *man/get_ydata.Rd
+956fca3619166255367016ff0a80cf39 *man/prepare_data.Rd
+0db0d4f20ad2f5625d19d38d63b22f23 *man/retrieve_data.Rd
+340387c22f017f070a7a2eb260e261dd *man/safe_max.Rd
