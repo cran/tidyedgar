@@ -18,6 +18,9 @@ get_ydata <- function(account = "Revenues",
                   "SalesRevenueGoodsNet",
                   "SalesRevenueNet"
     )
+  }else if(account == "NetIncomeLoss"){
+    accounts <- c("NetIncomeLoss",
+                  "ProfitLoss")
   } else {
     accounts <- c(account)
   }

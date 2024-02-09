@@ -1,6 +1,6 @@
 Package: tidyedgar
 Title: Tidy Fundamental Financial Data from 'SEC's 'EDGAR' 'API'
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person("Gerard", "Gimenez-Adsuar", , "gerard@solucionsdedades.cat", role = c("aut", "cre"),
            comment = c(ORCID = ""))
@@ -9,9 +9,10 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 Imports: dplyr, jsonlite, parallel, tidyr, httr
+URL: https://gerardgimenezadsuar.github.io/tidyedgar/
 NeedsCompilation: no
-Packaged: 2024-02-02 23:51:25 UTC; gerard
+Packaged: 2024-02-09 11:12:56 UTC; gerard
 Author: Gerard Gimenez-Adsuar [aut, cre]
 Maintainer: Gerard Gimenez-Adsuar <gerard@solucionsdedades.cat>
 Repository: CRAN
-Date/Publication: 2024-02-04 10:20:06 UTC
+Date/Publication: 2024-02-09 15:20:02 UTC

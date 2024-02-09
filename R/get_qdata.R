@@ -24,9 +24,13 @@ get_qdata <- function(account = "Revenues",
                   "SalesRevenueGoodsNet",
                   "SalesRevenueNet"
     )
+  }else if(account == "NetIncomeLoss"){
+    accounts <- c("NetIncomeLoss",
+                  "ProfitLoss")
   } else {
     accounts <- c(account)
   }
+
 
   # Create combinations of account, year, and quarter
   combinations <- expand.grid(account = accounts, year = years, quarter = quarters)
